@@ -1,0 +1,7 @@
+C:\Users\mostafa mahmoud aita\source\repos\test\test\bin\Debug\test.exe.config
+C:\Users\mostafa mahmoud aita\source\repos\test\test\bin\Debug\test.exe
+C:\Users\mostafa mahmoud aita\source\repos\test\test\bin\Debug\test.pdb
+C:\Users\mostafa mahmoud aita\source\repos\test\test\obj\Debug\test.csproj.AssemblyReference.cache
+C:\Users\mostafa mahmoud aita\source\repos\test\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+C:\Users\mostafa mahmoud aita\source\repos\test\test\obj\Debug\test.exe
+C:\Users\mostafa mahmoud aita\source\repos\test\test\obj\Debug\test.pdb
